@@ -1,0 +1,6 @@
+{
+  "name": "Smart Escalation",
+  "description": "Smart medicine reminder and trusted contact notification system with photo dose confirmation and deadline escalation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
